@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎓 I am an MSc Information Studies: Data Science student at the University of Amsterdam
+## 🎓 I am an MSc Information Studies: Data Science student at the University of Amsterdam
 
 - 🏗️ I have also graduated with an MEng with Honours in Civil Engineering from the University of Nottingham.
 
