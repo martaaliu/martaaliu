@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### 🎓 I am an MSc Information Studies: Data Science student at the University of Amsterdam. I have also graduated with an MEng with Honours in Civil Engineering from the University of Nottingham.
 
-- I’m currently working on my Information Studies: Data Science Master Thesis, which deals with topics such as machine learning, NLP, transformers (BERT, DistilBERT), multi-class text classification, and zero-shot learning. 
+- I’m currently working on my Data Science Master Thesis, which deals with topics such as machine learning, NLP, transformers (BERT, DistilBERT), multi-class text classification, and zero-shot learning. 
 
 - Check out [this video](https://www.youtube.com/watch?v=CRucZhapiLc) I made as part of my Data Systems Project course, in which my group developed a dashboard with interactive insights and a recommendation system for museums in the Netherlands using tools such as Python, Tableau, Flask, HTML, CSS, and JavaScript.
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaliu&theme=default)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martaaliu&theme=default) -->
