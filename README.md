@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **martaaliu/martaaliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎓 I am an MSc Information Studies: Data Science student at the University of Amsterdam. I have also graduated with an MEng with Honours in Civil Engineering from the University of Nottingham.
+### 🎓 I am an MSc Information Studies: Data Science student at the University of Amsterdam.
+
+### I have also graduated with an MEng with Honours in Civil Engineering from the University of Nottingham.
 
 - I’m currently working on my Data Science Master Thesis, which deals with topics such as machine learning, NLP, transformers (BERT, DistilBERT), multi-class text classification, and zero-shot learning. 
 
