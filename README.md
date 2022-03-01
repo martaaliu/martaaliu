@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻 I am a Data Scientist that loves problem-solving and challenging myself. Currently, most of my work falls within NLP and Deep Learning.
+### I am a Data Scientist that loves problem-solving and challenging myself. Currently, most of my work falls within NLP and Deep Learning.
 
 - 🎓 I have graduated with an MSc Information Studies: Data Science from the University of Amsterdam.
 
